@@ -1,0 +1,55 @@
+body{
+    background-color: azure;
+}
+
+.nav-bar{
+    border: 0px solid black;
+    padding: 45px 0;
+    background-color: cadetblue;
+    margin: 0 auto;
+    padding-left: 14vw;
+}
+
+.home-button,.about-us,.contact-us,.more-info{
+    text-decoration: none;
+    padding-left: 20px;
+    max-width: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container{
+    border: 10px solid none;
+    margin: 0 auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    max-width: 980px;
+    margin: 0 auto;
+    width: 90%;
+}
+
+.con1{
+    width: 40%;
+    align-items: center;
+    justify-content: center;
+}
+
+.con2{
+    padding-left: 1rem;
+    width: 60%;
+    align-items: center;
+    justify-content: center;
+}
+
+.page1{
+    border: 2px solid black;
+}
+
+img{
+    display: flex;
+    max-width: 100%;
+    width: 20rem;
+}
+
+.section1{
+    margin-top: 1rem;
+}
